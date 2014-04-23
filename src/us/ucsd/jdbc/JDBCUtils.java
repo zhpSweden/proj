@@ -11,7 +11,7 @@ import javax.enterprise.inject.Instance;
 public final class JDBCUtils {
 	private static String url = "jdbc:postgresql://localhost:5432/demo";
 	private static String user = "postgres";
-	private static String password = "nostalgia1";
+	private static String password = "123456";
 	
 	private static JDBCUtils instance = null;
 	private JDBCUtils(){
